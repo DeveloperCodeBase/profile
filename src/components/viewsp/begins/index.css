@@ -1,0 +1,18 @@
+body,
+html {
+  height: 100%;
+}
+.bgg {
+  background-image: url("./assets//img//profilebackeground.svg");
+  /* background-image: url("/assets/img/profilebackeground.svg"); */
+  height: 50vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.centered {
+  color: white;
+}
